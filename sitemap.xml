@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/company/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/products/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/products/afterglow/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/services/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/services/website-design/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/work/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/faq/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://helpnavts.github.io/navts-preview-hub/contact/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
